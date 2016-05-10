@@ -1,14 +1,14 @@
 {
   "name": "git-changelog",
-  "version": "0.0.1",
-  "description": "changelog generator",
+  "version": "1.0.0",
+  "description": "git changelog generator",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Linko91/git-changelog.git"
   },
   "keywords": [
     "changelog"
@@ -16,9 +16,9 @@
   "author": "Davide Di Modica <webmaster.ddm@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Linko91/git-changelog/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Linko91/git-changelog#readme",
   "dependencies": {
     "console-remote-client": "^0.4.3",
     "moment-timezone": "^0.5.3",
